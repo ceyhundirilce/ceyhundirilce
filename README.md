@@ -29,6 +29,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-</br>
+## 📈 GitHub Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhundirilce&layout=compact)](https://github.com/ceyhundirilce)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce&countColor=%23263759)
