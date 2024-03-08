@@ -42,7 +42,11 @@
 
 ## 📈 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhundirilce&theme=dark)](https://github.com/ceyhundirilce)
-![Ceyhun Dirilce's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceyhundirilce&show_icons=true&theme=dark)
+<a href="https://github.com/ceyhundirilce/convoychat">
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceyhundirilce&layout=compact&theme=dark&langs_count=8&card_width=150" />
+</a>
+<a href="https://github.com/ceyhundirilce/github-readme-stats">
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=ceyhundirilce&theme=dark&show_icons=true&hide=contribs,issues&card_width=250" />
+</a>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce&labelColor=%23697689&countColor=%23263759&style=plastic&labelStyle=upper" /></a>
