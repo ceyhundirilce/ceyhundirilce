@@ -42,4 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhundirilce&layout=compact)](https://github.com/ceyhundirilce)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce&countColor=%23263759)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce&labelColor=%23697689&countColor=%23263759&style=plastic&labelStyle=upper" /></a>
