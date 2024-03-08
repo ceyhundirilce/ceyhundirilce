@@ -7,7 +7,7 @@
 
 ## 🤝Connect With Me
 
-<p align="ce">
+<p>
 <a href="https://linkedin.com/in/ceyhundirilce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceyhundirilce" height="30" width="40" /></a>
 <a href="https://instagram.com/ceyhun.dirilce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceyhun.dirilce" height="30" width="40" /></a>
 <a href="https://youtube.com/@ceyhundirilce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceyhundirilce" height="30" width="40" /></a>
@@ -41,15 +41,11 @@
 </br>
 
 ## 📈 GitHub Stats 
-
 <a href="https://github.com/ceyhundirilce">
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceyhundirilce&layout=compact&theme=dark&langs_count=8&card_width=150" />
 </a>
 <a href="https://github.com/ceyhundirilce">
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=ceyhundirilce&theme=dark&show_icons=true&hide=contribs,issues&card_width=250" />
 </a>
-
-</br>
-</br>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fceyhundirilce&labelColor=%23697689&countColor=%23263759&style=plastic&labelStyle=upper" /></a>
