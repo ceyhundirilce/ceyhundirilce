@@ -47,5 +47,5 @@
 </a>
 
 <a href="https://github.com/ceyhundirilce">
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=ceyhundirilce&theme=dark&show_icons=true&hide=contribs,issues&card_width=250" />
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=ceyhundirilce&theme=dark&show_icons=true&hide=contribs&card_width=250" />
 </a>
