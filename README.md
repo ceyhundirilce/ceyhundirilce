@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://media.licdn.com/dms/image/D4D16AQGgUhMreeqJzg/profile-displaybackgroundimage-shrink_350_1400/0/1710093883347?e=1715817600&v=beta&t=sTgpwRvWe5m4hw97kEPnu601WLZrAOdnqivDLPHCOSw" alt="my banner"></a>
+  <a><img src="https://img.itch.zone/aW1nLzExOTExODkwLnBuZw==/original/2CNNJc.png" alt="Cd Games"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ceyhun Dirilce</h1>
