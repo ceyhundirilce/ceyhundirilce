@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ceyhun Dirilce</h1>
 <h3 align="center">A passionate Godot and Unity game developer from Türkiye</h3>
 
-- 👨‍💻 My **[Game Projects](https://docs.google.com/document/d/1Ws9OEwLOTkG0H0jDGDN7VDytxmc2BwyzVdo0m6unYNk/edit?usp=drive_link)** and **[Database Projects](https://docs.google.com/document/d/1TKug-vi1Je_HRxJgYyq3o_yiigtKn_alWAxN094_bHw/edit?usp=drive_link)**
+- 👨‍💻 My **[Game Projects](https://drive.google.com/file/d/1uVpXkcxlgHjWDoupMev_Tt2o9t7nzbMV/view)** and **[Database Projects](https://drive.google.com/file/d/1onK26KAq7vGvVf3h8T7zRDiIQdRDfbCV/view)**
 
 - ✉️ Contact me at **ceyhundirilce@outlook.com**
 
