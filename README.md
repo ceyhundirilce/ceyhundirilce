@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ceyhun Dirilce</h1>
-<h3 align="center">A passionate Godot and Unity game developer from Türkiye</h3>
+<h3 align="center">A passionate Godot game developer from Türkiye</h3>
 
 - 👨‍💻 My **[Games](https://drive.google.com/file/d/1U-0Pvt0t9h-1sNR81QhDCWky06kBrfx7/view?usp=drive_link)** and **[Databases](https://drive.google.com/file/d/1onK26KAq7vGvVf3h8T7zRDiIQdRDfbCV/view)**
 
