@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://media.licdn.com/dms/image/D4D16AQGgUhMreeqJzg/profile-displaybackgroundimage-shrink_350_1400/0/1710093883347?e=1727308800&v=beta&t=axMMADx0P1y38jK1Ecqolh7diZeBYQ_A_tDlQN73w8c" alt="Cd Games"></a>
+  <a><img src="https://media.licdn.com/dms/image/v2/D4D16AQGgUhMreeqJzg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710093883347?e=1732752000&v=beta&t=d0HQ9Cbh7QHsf4LxH-k-wWXPtyau5JGyyGMPSXKoM88" alt="Cd Games"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ceyhun Dirilce</h1>
