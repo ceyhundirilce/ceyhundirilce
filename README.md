@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://media.licdn.com/dms/image/v2/D4D16AQGURCLTiL3ToA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727877971206?e=1733356800&v=beta&t=h08q8K4i9fNqVhX-niQ2ybp5tH_8rja4cEQB3uRdH9U" alt="Ceyhun Dirilce"></a>
+  <a><img src="https://media.licdn.com/dms/image/v2/D4D16AQGlt-IfywPglQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727888815989?e=1733356800&v=beta&t=tfMyTJl7SMcPl9Pz_dUxRMd3-Zt_M2Hx30fX8pprESg" alt="Ceyhun Dirilce"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ceyhun Dirilce</h1>
