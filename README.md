@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://media.licdn.com/dms/image/v2/D4D16AQGZ_7A9mMpDtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727972408775?e=1747267200&v=beta&t=XZc99JBMPlWnXV3cZXBhFyPs_y0SrUmPUsOL63x6yzQ">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGZ_7A9mMpDtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727972408775?e=1733356800&v=beta&t=pbm6oRaTgaD4xS2zUtucmPV2bY4pEmGiese39OdC4vM" alt="Ceyhun Dirilce">
+  <a href="https://linktr.ee/ceyhundirilce">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGZ_7A9mMpDtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727972408775?e=1747267200&v=beta&t=XZc99JBMPlWnXV3cZXBhFyPs_y0SrUmPUsOL63x6yzQ" alt="Ceyhun Dirilce">
   </a>
 </p>
 
