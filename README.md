@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://linktr.ee/ceyhundirilce](https://www.linkedin.com/in/ceyhundirilce/overlay/background-image/)">
+  <a href="https://linktr.ee/ceyhundirilce](https://www.linkedin.com/in/ceyhundirilce/overlay/background-image/">
     <img src="https://media.licdn.com/dms/image/v2/D4D16AQGZ_7A9mMpDtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727972408775?e=1733356800&v=beta&t=pbm6oRaTgaD4xS2zUtucmPV2bY4pEmGiese39OdC4vM" alt="Ceyhun Dirilce">
   </a>
 </p>
